@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+.airbnb-logo {
+  padding: 20px;
+  width: 100px;
+}
+
+.navbar {
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
