@@ -1,4 +1,4 @@
-import photoGrid from "../assets/photo-grid.png";
+import photoGrid from "../../assets/photo-grid.png";
 function Hero() {
   return (
     <div className="hero">

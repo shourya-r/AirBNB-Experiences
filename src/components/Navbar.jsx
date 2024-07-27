@@ -1,4 +1,4 @@
-import airBNBLogo from "../assets/airbnb-logo.png";
+import airBNBLogo from "../../assets/airbnb-logo.png";
 function Navbar() {
   return (
     <nav className="navbar">
